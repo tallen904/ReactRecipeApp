@@ -1,0 +1,7 @@
+.recipe-list {
+    display: flex;
+}
+
+.recipe-item {
+    flex: 1
+}
